@@ -1,0 +1,24 @@
+.background {
+    margin-left: 30%;
+}
+
+
+.background button {
+    width: 200px;
+    height: 30px;
+    background-color: teal;
+    margin-top: 20px;
+}
+
+.background input {
+    margin-bottom: 5px;
+}
+
+.link {
+    background-color: teal;
+    width: 194px;
+    height: 23px;
+    text-align: center;
+    padding: 3px;
+    margin-top: 10px;
+}

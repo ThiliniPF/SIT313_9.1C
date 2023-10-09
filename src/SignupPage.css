@@ -1,0 +1,16 @@
+.Background {
+    margin-left: 30%;
+}
+
+.Background input {
+    margin-bottom: 5px;
+}
+
+.link {
+    background-color: teal;
+    width: 194px;
+    height: 23px;
+    text-align: center;
+    padding: 3px;
+    margin-top: 10px;
+}
